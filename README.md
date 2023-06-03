@@ -15,11 +15,11 @@ Welcome to the Command Line Quiz Application! 🚀 Test your knowledge with vari
 - 📝 [Features](#-features)
 - 🚀 [Getting Started](#-getting-started)
 - 📚 [Usage](#-usage)
-- ⚙️ [Built With](#built)
-- 🛠️ [Customize](#️-customize)
+- 🔧 [Built With](#-built-with)
+- 🛠️ [Customize](#%EF%B8%8F-customize)
 - 🙌 [Contributing](#-contributing)
 - 📜 [License](#-license)
-- 🖋️ [Author](#author)
+- 👨‍💻 [Author](#-author)
 
 ## 📝 Features
 
@@ -50,7 +50,7 @@ Welcome to the Command Line Quiz Application! 🚀 Test your knowledge with vari
 - 📝 Answer the questions.
 - 📊 View your quiz results.
 - 
-## ⚙️ Built With <a name="built"></a>
+## 🔧 Built With 
 
 - 💻 Bash - The scripting language used for the command-line application
 
@@ -73,7 +73,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🖋️ Author <a name="author"></a>
+## 👨‍💻 Author
 
 Srikanth Kanniyappan 👨‍💻 
 
