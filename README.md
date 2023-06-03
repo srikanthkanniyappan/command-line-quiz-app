@@ -19,7 +19,7 @@ Welcome to the Command Line Quiz Application! 🚀 Test your knowledge with vari
 - 🛠️ [Customize](#️-customize)
 - 🙌 [Contributing](#-contributing)
 - 📜 [License](#-license)
-- 🖋️ [Author](author)
+- 🖋️ [Author](#author)
 
 ## 📝 Features
 
