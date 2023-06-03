@@ -1,0 +1,5 @@
+1. Who created the C programming Language? # (a) Ken Thompson (b) Dennis Ritchie (c) Robin Milner (d) Frieder Nake # b
+2. What does CSS stand for? # (a) Cascade sheets style (b) Color and style sheets (c) Cascading style sheets (d) Coded Style Sheet # c 
+3. Who developed Java Programming Language? # (a) James Gosling (b) Douglas Engelbart (c) Edmund M. Clarke (d) James D. Foley # a 
+4. Who is known as the father of internet? # (a) Alan Perlis (b) Jean E. Sammet (c) Vint Cerf (d) Steve Lawrence # c 
+5. Which of the following HTML Elements is used for making any text bold ? # (a) <p> (b) <i> (c) <li> (d) <b># d
